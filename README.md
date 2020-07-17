@@ -2,4 +2,4 @@
 
 Hello! Welcome to my GitHub page.
 
-Portfolio: https:/www.arcticai.github.io
+Portfolio: arcticai.github.io
